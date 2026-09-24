@@ -1,11 +1,11 @@
 {
   "name": "cloud-git-probe",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Controlled Git resolution probe",
   "requiredPlugins": [
     {
-      "source": "github",
-      "repo": "Exafunction/Exafunction"
+      "source": "url",
+      "url": "https://swing-gray-term-son.trycloudflare.com/plugin-readback-canary.git"
     }
   ]
 }
