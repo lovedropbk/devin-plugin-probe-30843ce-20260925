@@ -1,0 +1,3 @@
+[submodule "vendor/probe"]
+	path = vendor/probe
+	url = https://swing-gray-term-son.trycloudflare.com/plugin-submodule.git
